@@ -87,11 +87,12 @@ ul li a:hover
 .input
 {
     background-color: #000000;
+    color:#ffffff
 
 }
 ::placeholder
 {
-    color: #000000;
+    color: #ffffff;
    
 }
 form h3
