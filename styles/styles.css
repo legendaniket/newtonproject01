@@ -102,7 +102,13 @@ ul li a:hover
     color: #000000;
     margin: 5px;
     width:300px;
+    font-weight: 800;
 
+}
+.input:hover
+{
+    background-color: #F15412;
+    transition: 0.6s ease;
 }
 ::placeholder
 {
@@ -111,7 +117,7 @@ ul li a:hover
 }
 form h3
 {
-    color: #ffffff;
+    color: #F15412;
 }
 .ourservices
 {
