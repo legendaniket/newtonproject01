@@ -28,7 +28,7 @@ This project is to showcase my own skills.
 ## Project Structure
 
 ![flow](https://user-images.githubusercontent.com/108210905/177208843-40f22daf-d29d-4447-8d00-bf92cf413162.png)
-## Issues faced by me during this project
+## Issues faced by me during this project and it's solution.
 
 #### ----> Dividing the page into different sections.
 
