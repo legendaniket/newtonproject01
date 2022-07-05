@@ -32,8 +32,8 @@ This project is to showcase my own skills.
 
 #### ----> Dividing the page into different sections.
 
-Solution - Used Semantic Elements like <footer>
-<header> and <div> to divide it into different sections and used it a desired location.
+Solution - Used Semantic Elements like "<footer>"
+"<header>" and "<div>" to divide it into different sections and used it a desired location.
 
 
 
