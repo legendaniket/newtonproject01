@@ -166,17 +166,19 @@ img.container_pic
 }
 .flex_container
 {
-    display: flexbox;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
 }
 .container
 {
     width: 400px;
-    display: inline-block;
-    padding: 7px;
-    margin: 15px;
     text-align: center;
     box-shadow: 7px 7px 45px grey;
     border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
 }
 
@@ -196,8 +198,6 @@ footer a
 {
     text-decoration: none;
     margin:none;
-    margin-left: 150px;
-    margin-right: 150px;
     font-size: 20px;
     color: #ffffff;
     
