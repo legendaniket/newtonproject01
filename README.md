@@ -12,7 +12,7 @@ This project is to showcase my own skills.
 - Use of External CSS. 
 - Use of Google Fonts.
 - Creating NavBar.
-- Use of <div> tag for dividing the pages in various sections.
+- Use of div tag for dividing the pages in various sections.
 - How classes and Selectors are used in CSS.
 - Creating forms
 - Placing diffrent elements at the desired places.
