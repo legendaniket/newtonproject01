@@ -33,13 +33,13 @@
             <form>
                 <h3>Fill out this form for any Queries</h3>
                     <label for="name" class="label">Name:</label><br>
-                    <input type="text" class="input" id="name" placeholder="Enter your Name" minlength="4"><br>
+                    <input type="text" class="input" id="name" placeholder="Enter your Name" minlength="4" required><br>
                     <label for="email" class="label">Email:</label><br>
-                    <input type="email" class="input" id="email" placeholder="Enter your Email"><br>
+                    <input type="email" class="input" id="email" placeholder="Enter your Email" required><br>
                     <label for="number" class="label">Number:</label><br>
                     <input type="tel" class="input" id="number" placeholder="Enter your Number" minlength="10"><br>
                     <label for="query" class="label">Query:</label><br>
-                    <textarea id="query" class="input" placeholder="Enter your Queries here"></textarea><br>
+                    <textarea id="query" class="input" placeholder="Enter your Queries here" required></textarea><br>
                     <button type="submit" class="button"  >Submit</button>
                   
 
@@ -51,9 +51,10 @@
         
         </div>
     </header>
-    <div>
+    <section>
         <h1 class="services">Our services</h1>
-    </div>
+    </section>
+    <section class="flex_container">
         <div class="container">
             <img src="assets/cardio.jpg" class="container_pic">
             <h2>Cardio</h2>
@@ -73,13 +74,16 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, ex quasi. Expedita similique, reiciendis perspiciatis fugit doloribus beatae itaque, explicabo ratione magnam cum dolorum ex est ullam earum reprehenderit possimus!</p>
 
         </div>
-
+    </section>
 
         <footer class="footer">
             <h1>Connect with Us</h1>
-            <a href="https://www.instagram.com/">Instagram</a>
-            <a href="https://twitter.com/login">Twitter</a>
-            <a href="https://www.facebook.com/">Facebook</a>
+            <br>
+            <div class="flex_container">
+                <a href="https://www.instagram.com/">Instagram</a>
+                <a href="https://twitter.com/login">Twitter</a>
+                <a href="https://www.facebook.com/">Facebook</a>
+            </div>
             <br><br>
             <div>Site Designed and Developed By Aniket Kumar</div>
 
