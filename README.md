@@ -1,7 +1,7 @@
 
 # A K Fitness Gym Index Page
 
-:tw-1f31f:  ## Description  :tw-1f31f: 
+## Description
 This is a sample page created by me as a project for Newton 
 School. This page is created by just using the HTML and CSS.
 This project is to showcase my own skills.
