@@ -52,7 +52,7 @@ Solution - Using "background-color: rgba(00, 00, 00, 0.7);" instead of "opacity:
 ## Getting Started with the App
 
 1. Clone the repository.
-2. 
+2. Install the live server extension and Go Live.
 
 ## References
 
